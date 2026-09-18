@@ -51,8 +51,6 @@ Guides and reference for everything we make, versioned alongside the code it doc
   </picture>
 </a>
 
-<a href="https://github.com/goatsoft/goatherd.dev/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/goatsoft/goatherd.dev?style=flat&logo=github&label=Stars&color=6d5cff"></a>
-<a href="https://github.com/goatsoft/goatherd.dev/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/goatsoft/goatherd.dev?style=flat&label=Release&color=6d5cff"></a>
 <a href="https://github.com/goatsoft/goatherd.dev/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/goatsoft/goatherd.dev?style=flat&label=Updated&color=6d5cff"></a>
 <a href="https://github.com/goatsoft/goatherd.dev/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/github/license/goatsoft/goatherd.dev?style=flat&label=Licence&color=6d5cff"></a>
 

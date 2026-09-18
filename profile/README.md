@@ -17,50 +17,25 @@ Everything we ship is public, right here. Read the source, fork it, build it, an
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-**[GOAT](https://github.com/goatsoft/GOAT)**
+### [GOAT](https://github.com/goatsoft/GOAT)
 
 A private AI workspace for Mac. Connect local models to your project files, tools and memory, with permissions you control.
 
-<a href="https://github.com/goatsoft/GOAT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=goatsoft&repo=GOAT&hide_border=true&bg_color=00000000&title_color=e9ecf5&text_color=aab1c6&icon_color=8b7bff">
-    <img alt="GOAT repository" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=goatsoft&repo=GOAT&hide_border=true&bg_color=00000000&title_color=0e1020&text_color=41475c&icon_color=6d5cff">
-  </picture>
-</a>
+<a href="https://github.com/goatsoft/GOAT/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/goatsoft/GOAT?style=flat&logo=github&logoColor=white&label=Stars&labelColor=0e1020&color=6d5cff"></a>
+<a href="https://github.com/goatsoft/GOAT/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/goatsoft/GOAT?style=flat&label=Release&labelColor=0e1020&color=6d5cff"></a>
+<a href="https://github.com/goatsoft/GOAT/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/goatsoft/GOAT/total?style=flat&label=Downloads&labelColor=0e1020&color=6d5cff"></a>
+<a href="https://github.com/goatsoft/GOAT/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/goatsoft/GOAT?style=flat&label=Updated&labelColor=0e1020&color=6d5cff"></a>
+<a href="https://github.com/goatsoft/GOAT/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/github/license/goatsoft/GOAT?style=flat&label=Licence&labelColor=0e1020&color=6d5cff"></a>
 
-<a href="https://github.com/goatsoft/GOAT/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/goatsoft/GOAT?style=flat&logo=github&label=Stars&color=6d5cff"></a>
-<a href="https://github.com/goatsoft/GOAT/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/goatsoft/GOAT?style=flat&label=Release&color=6d5cff"></a>
-<a href="https://github.com/goatsoft/GOAT/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/goatsoft/GOAT?style=flat&label=Updated&color=6d5cff"></a>
-<a href="https://github.com/goatsoft/GOAT/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/github/license/goatsoft/GOAT?style=flat&label=Licence&color=6d5cff"></a>
-
-[goatapp.dev](https://goatapp.dev)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**[goatherd.dev](https://github.com/goatsoft/goatherd.dev)**
-
-Guides and reference for everything we make, versioned alongside the code it documents.
-
-<a href="https://github.com/goatsoft/goatherd.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=goatsoft&repo=goatherd.dev&hide_border=true&bg_color=00000000&title_color=e9ecf5&text_color=aab1c6&icon_color=8b7bff">
-    <img alt="goatherd.dev repository" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=goatsoft&repo=goatherd.dev&hide_border=true&bg_color=00000000&title_color=0e1020&text_color=41475c&icon_color=6d5cff">
-  </picture>
-</a>
-
-<a href="https://github.com/goatsoft/goatherd.dev/commits"><img alt="Last commit" src="https://img.shields.io/github/last-commit/goatsoft/goatherd.dev?style=flat&label=Updated&color=6d5cff"></a>
-<a href="https://github.com/goatsoft/goatherd.dev/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/github/license/goatsoft/goatherd.dev?style=flat&label=Licence&color=6d5cff"></a>
-
-[goatherd.dev](https://goatherd.dev)
+Read more at [goatapp.dev](https://goatapp.dev)
 
 </td>
 </tr>
 </table>
 
-> Stars, releases and activity above update live from GitHub.
+> The badges above read live from GitHub, so stars, releases and activity stay current on their own.
 
 ## How we work
 

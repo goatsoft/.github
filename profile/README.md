@@ -35,8 +35,6 @@ Read more at [goatapp.dev](https://goatapp.dev)
 </tr>
 </table>
 
-> The badges above read live from GitHub, so stars, releases and activity stay current on their own.
-
 ## How we work
 
 - 🔒 **Private by design**: no accounts, no telemetry, no surprise network calls. Your data stays on your device unless you choose otherwise.

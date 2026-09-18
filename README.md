@@ -1,2 +1,0 @@
-# .github
-GOATsoft README Repository
